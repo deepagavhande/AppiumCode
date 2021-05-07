@@ -36,7 +36,6 @@ public class RestClient extends Api_base{
 	
 	System.out.println(jsobj);
 	//
-	//
 	Header[] headerarry=  (Header[]) httpRespose.getAllHeaders();
 	
 	HashMap<String, String> allheader= new HashMap<String, String>();
