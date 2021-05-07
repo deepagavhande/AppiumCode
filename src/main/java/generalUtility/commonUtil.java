@@ -103,6 +103,9 @@ for (int i = 0; i <exl1.getLastRowNum(); i++) {
 public static void main(String[] args) throws IOException {
 	fetchdata();
 }
+public static void m2(){
+	
+}
 
 
 
