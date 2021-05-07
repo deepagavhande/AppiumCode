@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="173482" started-at="2021-03-28T07:44:05Z" finished-at="2021-03-28T07:46:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="173482" started-at="2021-03-28T07:44:05Z" finished-at="2021-03-28T07:46:59Z">
+      <class name="AppiumPractice.firstClassApp">
+        <test-method status="PASS" signature="initialisation()[pri:0, instance:AppiumPractice.firstClassApp@7823a2f9]" name="initialisation" is-config="true" duration-ms="58394" started-at="2021-03-28T13:14:05Z" finished-at="2021-03-28T13:15:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method status="PASS" signature="loginToApp()[pri:0, instance:AppiumPractice.firstClassApp@7823a2f9]" name="loginToApp" duration-ms="20052" started-at="2021-03-28T13:15:04Z" finished-at="2021-03-28T13:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method status="PASS" signature="addToCart()[pri:0, instance:AppiumPractice.firstClassApp@7823a2f9]" name="addToCart" duration-ms="23640" started-at="2021-03-28T13:15:24Z" finished-at="2021-03-28T13:15:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="matchingItem()[pri:0, instance:AppiumPractice.firstClassApp@7823a2f9]" name="matchingItem" duration-ms="619" started-at="2021-03-28T13:15:47Z" finished-at="2021-03-28T13:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- matchingItem -->
+        <test-method status="PASS" signature="sumOfProduct()[pri:0, instance:AppiumPractice.firstClassApp@7823a2f9]" name="sumOfProduct" duration-ms="70675" started-at="2021-03-28T13:15:48Z" finished-at="2021-03-28T13:16:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumOfProduct -->
+      </class> <!-- AppiumPractice.firstClassApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
